@@ -33,5 +33,24 @@ if (typeof num1 !== 'number') {
 }
 
 // paprasyti vartotojo ivesti skaiciu
+let numIvestas = 19;
+// let numIvestas = +prompt('iveskite skaiciu');
 // patikrinti ar skaicius yra lygus 19
+console.log('numIvestas ===', numIvestas);
+console.log('typeof numIvestas ===', typeof numIvestas);
+if (numIvestas === 19) {
+  console.log('ivesta 19 all good');
+} else {
+  console.log('ivesta ne 19 bad');
+}
 // pranesti su console ar lygu ar ne
+
+// norim atspausdinti koks yra skaicius
+// skaicius min gali buti 0
+// 0 - 10 - nedidelis skaicius
+// 11 - 60 - vidutinis skaicius
+// 61 - daugiau - didelis skaicius
+
+// Loginiu operatorium patikrtinti ar x yra skaicius IR ar didesnti uz 10
+
+// mums tinka jei reikmes yra daugiau uz 50 ARBA maziau uz 0
