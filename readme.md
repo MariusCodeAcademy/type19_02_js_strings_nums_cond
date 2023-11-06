@@ -3,6 +3,7 @@
 ## IF Else uzduotys
 
 1. naujam faile sukurti kintamaji 'age'. priskirti jam amziu. parasyti if statement kuri priklausomai nuo amziau pasako ar zmogus gali pirkti alkoholi ar ne. (18) isbandyti ar veikia
+
    1.1. jei amzius yra neigiamas pranesam kad neteisingai pateiktas amzius
 
 2. sukurti kintamaji isMarried boolean tipo. Parasyti if bloka kuri priklausomai nuo ar zmogus susituokes atspausdina:
